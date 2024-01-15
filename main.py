@@ -3,8 +3,8 @@ from random import randint
 
 
 def pick_two_doors():
-    no1 = randint(1,4)
-    no2 = randint(1,4)
+    no1 = randint(1,3)
+    no2 = randint(1,3)
 
     return no1, no2
   
